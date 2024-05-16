@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "103403575515",
+    "project_id": "mapdialog-1aa4e",
+    "storage_bucket": "mapdialog-1aa4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103403575515:android:b43307dddfe482784e94fe",
+        "android_client_info": {
+          "package_name": "com.example.map_dialog_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdQ95MUBLH3cBu-_4ywho8ReLdBylZ2-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
